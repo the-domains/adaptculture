@@ -2,6 +2,7 @@ name: AdaptCulture
 favicon: null
 layout_spectrum: 0.02355
 typography_spectrum: 0.9955
+title: Adapt Culture
 cta:
   domain: null
   bucket: null
